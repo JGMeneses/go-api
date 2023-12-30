@@ -1,0 +1,10 @@
+[api]
+port = "9000"
+
+
+[database]
+host = "localhost"
+user = "postgres"
+pass = "123"
+name = "api_todo"
+
